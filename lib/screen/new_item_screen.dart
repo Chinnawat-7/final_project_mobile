@@ -18,7 +18,7 @@ class _NewItemScreenState extends State<NewItemScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("เพิ่มรายการใหม่"),
+        title: const Text("เพิ่มรายการที่ต้องซื้อ"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
